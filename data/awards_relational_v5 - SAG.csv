@@ -1,0 +1,161 @@
+nomination_id,movie_id,category,ceremony_year,film_year,won
+1514,218,Outstanding Cast,1995,1994,TRUE
+1515,68,Outstanding Cast,1996,1995,TRUE
+1516,799,Outstanding Cast,1997,1996,TRUE
+1517,573,Outstanding Cast,1998,1997,TRUE
+1518,474,Outstanding Cast,1999,1998,TRUE
+1519,49,Outstanding Cast,2000,1999,TRUE
+1520,719,Outstanding Cast,2001,2000,TRUE
+1521,244,Outstanding Cast,2002,2001,TRUE
+1522,134,Outstanding Cast,2003,2002,TRUE
+1523,623,Outstanding Cast,2004,2003,TRUE
+1524,481,Outstanding Cast,2005,2004,TRUE
+1525,152,Outstanding Cast,2006,2005,TRUE
+1526,336,Outstanding Cast,2007,2006,TRUE
+1527,400,Outstanding Cast,2008,2007,TRUE
+1528,487,Outstanding Cast,2009,2008,TRUE
+1529,289,Outstanding Cast,2010,2009,TRUE
+1530,609,Outstanding Cast,2011,2010,TRUE
+1531,592,Outstanding Cast,2012,2011,TRUE
+1532,69,Outstanding Cast,2013,2012,TRUE
+1533,52,Outstanding Cast,2014,2013,TRUE
+1534,93,Outstanding Cast,2015,2014,TRUE
+1535,496,Outstanding Cast,2016,2015,TRUE
+1536,264,Outstanding Cast,2017,2016,TRUE
+1537,781,Outstanding Cast,2018,2017,TRUE
+1538,94,Outstanding Cast,2019,2018,TRUE
+1539,408,Outstanding Cast,2020,2019,TRUE
+1540,688,Outstanding Cast,2021,2020,TRUE
+1541,144,Outstanding Cast,2022,2021,TRUE
+1542,200,Outstanding Cast,2023,2022,TRUE
+1543,415,Outstanding Cast,2024,2023,TRUE
+1544,149,Outstanding Cast,2025,2024,TRUE
+1545,484,Outstanding Cast,2026,2025,TRUE
+2150,218,Outstanding Male Actor - Leading Role,1995,1994,TRUE
+2151,325,Outstanding Male Actor - Leading Role,1996,1995,TRUE
+2152,479,Outstanding Male Actor - Leading Role,1997,1996,TRUE
+2153,74,Outstanding Male Actor - Leading Role,1998,1997,TRUE
+2154,331,Outstanding Male Actor - Leading Role,1999,1998,TRUE
+2155,49,Outstanding Male Actor - Leading Role,2000,1999,TRUE
+2156,719,Outstanding Male Actor - Leading Role,2001,2000,TRUE
+2157,7,Outstanding Male Actor - Leading Role,2002,2001,TRUE
+2158,227,Outstanding Male Actor - Leading Role,2003,2002,TRUE
+2159,876,Outstanding Male Actor - Leading Role,2004,2003,TRUE
+2160,446,Outstanding Male Actor - Leading Role,2005,2004,TRUE
+2161,124,Outstanding Male Actor - Leading Role,2006,2005,TRUE
+2162,612,Outstanding Male Actor - Leading Role,2007,2006,TRUE
+2163,703,Outstanding Male Actor - Leading Role,2008,2007,TRUE
+2164,364,Outstanding Male Actor - Leading Role,2009,2008,TRUE
+2165,153,Outstanding Male Actor - Leading Role,2010,2009,TRUE
+2166,609,Outstanding Male Actor - Leading Role,2011,2010,TRUE
+2167,519,Outstanding Male Actor - Leading Role,2012,2011,TRUE
+2168,334,Outstanding Male Actor - Leading Role,2013,2012,TRUE
+2169,158,Outstanding Male Actor - Leading Role,2014,2013,TRUE
+2170,683,Outstanding Male Actor - Leading Role,2015,2014,TRUE
+2171,656,Outstanding Male Actor - Leading Role,2016,2015,TRUE
+2172,208,Outstanding Male Actor - Leading Role,2017,2016,TRUE
+2173,163,Outstanding Male Actor - Leading Role,2018,2017,TRUE
+2174,100,Outstanding Male Actor - Leading Role,2019,2018,TRUE
+2175,302,Outstanding Male Actor - Leading Role,2020,2019,TRUE
+2176,565,Outstanding Male Actor - Leading Role,2021,2020,TRUE
+2177,643,Outstanding Male Actor - Leading Role,2022,2021,TRUE
+2178,696,Outstanding Male Actor - Leading Role,2023,2022,TRUE
+2179,415,Outstanding Male Actor - Leading Role,2024,2023,TRUE
+2180,9,Outstanding Male Actor - Leading Role,2025,2024,TRUE
+2181,484,Outstanding Male Actor - Leading Role,2026,2025,TRUE
+2182,877,Outstanding Female Actor - Leading Role,1995,1994,TRUE
+2183,167,Outstanding Female Actor - Leading Role,1996,1995,TRUE
+2184,204,Outstanding Female Actor - Leading Role,1997,1996,TRUE
+2185,74,Outstanding Female Actor - Leading Role,1998,1997,TRUE
+2186,474,Outstanding Female Actor - Leading Role,1999,1998,TRUE
+2187,49,Outstanding Female Actor - Leading Role,2000,1999,TRUE
+2188,198,Outstanding Female Actor - Leading Role,2001,2000,TRUE
+2189,375,Outstanding Female Actor - Leading Role,2002,2001,TRUE
+2190,134,Outstanding Female Actor - Leading Role,2003,2002,TRUE
+2191,374,Outstanding Female Actor - Leading Role,2004,2003,TRUE
+2192,365,Outstanding Female Actor - Leading Role,2005,2004,TRUE
+2193,736,Outstanding Female Actor - Leading Role,2006,2005,TRUE
+2194,648,Outstanding Female Actor - Leading Role,2007,2006,TRUE
+2195,878,Outstanding Female Actor - Leading Role,2008,2007,TRUE
+2196,879,Outstanding Female Actor - Leading Role,2009,2008,TRUE
+2197,533,Outstanding Female Actor - Leading Role,2010,2009,TRUE
+2198,95,Outstanding Female Actor - Leading Role,2011,2010,TRUE
+2199,592,Outstanding Female Actor - Leading Role,2012,2011,TRUE
+2200,482,Outstanding Female Actor - Leading Role,2013,2012,TRUE
+2201,98,Outstanding Female Actor - Leading Role,2014,2013,TRUE
+2202,502,Outstanding Female Actor - Leading Role,2015,2014,TRUE
+2203,454,Outstanding Female Actor - Leading Role,2016,2015,TRUE
+2204,320,Outstanding Female Actor - Leading Role,2017,2016,TRUE
+2205,781,Outstanding Female Actor - Leading Role,2018,2017,TRUE
+2206,880,Outstanding Female Actor - Leading Role,2019,2018,TRUE
+2207,305,Outstanding Female Actor - Leading Role,2020,2019,TRUE
+2208,401,Outstanding Female Actor - Leading Role,2021,2020,TRUE
+2209,562,Outstanding Female Actor - Leading Role,2022,2021,TRUE
+2210,200,Outstanding Female Actor - Leading Role,2023,2022,TRUE
+2211,415,Outstanding Female Actor - Leading Role,2024,2023,TRUE
+2212,678,Outstanding Female Actor - Leading Role,2025,2024,TRUE
+2213,253,Outstanding Female Actor - Leading Role,2026,2025,TRUE
+2214,193,Outstanding Male Actor - Supporting Role,1995,1994,TRUE
+2215,167,Outstanding Male Actor - Supporting Role,1996,1995,TRUE
+2216,296,Outstanding Male Actor - Supporting Role,1997,1996,TRUE
+2217,241,Outstanding Male Actor - Supporting Role,1998,1997,TRUE
+2218,474,Outstanding Male Actor - Supporting Role,1999,1998,TRUE
+2219,881,Outstanding Male Actor - Supporting Role,2000,1999,TRUE
+2220,719,Outstanding Male Actor - Supporting Role,2001,2000,TRUE
+2221,622,Outstanding Male Actor - Supporting Role,2002,2001,TRUE
+2222,882,Outstanding Male Actor - Supporting Role,2003,2002,TRUE
+2223,390,Outstanding Male Actor - Supporting Role,2004,2003,TRUE
+2224,481,Outstanding Male Actor - Supporting Role,2005,2004,TRUE
+2225,506,Outstanding Male Actor - Supporting Role,2006,2005,TRUE
+2226,336,Outstanding Male Actor - Supporting Role,2007,2006,TRUE
+2227,400,Outstanding Male Actor - Supporting Role,2008,2007,TRUE
+2228,364,Outstanding Male Actor - Supporting Role,2009,2008,TRUE
+2229,289,Outstanding Male Actor - Supporting Role,2010,2009,TRUE
+2230,567,Outstanding Male Actor - Supporting Role,2011,2010,TRUE
+2231,519,Outstanding Male Actor - Supporting Role,2012,2011,TRUE
+2232,334,Outstanding Male Actor - Supporting Role,2013,2012,TRUE
+2233,158,Outstanding Male Actor - Supporting Role,2014,2013,TRUE
+2234,105,Outstanding Male Actor - Supporting Role,2015,2014,TRUE
+2235,531,Outstanding Male Actor - Supporting Role,2016,2015,TRUE
+2236,349,Outstanding Male Actor - Supporting Role,2017,2016,TRUE
+2237,781,Outstanding Male Actor - Supporting Role,2018,2017,TRUE
+2238,731,Outstanding Male Actor - Supporting Role,2019,2018,TRUE
+2239,408,Outstanding Male Actor - Supporting Role,2020,2019,TRUE
+2240,565,Outstanding Male Actor - Supporting Role,2021,2020,TRUE
+2241,144,Outstanding Male Actor - Supporting Role,2022,2021,TRUE
+2242,200,Outstanding Male Actor - Supporting Role,2023,2022,TRUE
+2243,415,Outstanding Male Actor - Supporting Role,2024,2023,TRUE
+2244,22,Outstanding Male Actor - Supporting Role,2025,2024,TRUE
+2245,409,Outstanding Male Actor - Supporting Role,2026,2025,TRUE
+2246,117,Outstanding Female Actor - Supporting Role,1995,1994,TRUE
+2247,167,Outstanding Female Actor - Supporting Role,1996,1995,TRUE
+2248,560,Outstanding Female Actor - Supporting Role,1997,1996,TRUE
+2249,241,Outstanding Female Actor - Supporting Role,1998,1997,TRUE
+2250,474,Outstanding Female Actor - Supporting Role,1999,1998,TRUE
+2251,49,Outstanding Female Actor - Supporting Role,2000,1999,TRUE
+2252,137,Outstanding Female Actor - Supporting Role,2001,2000,TRUE
+2253,244,Outstanding Female Actor - Supporting Role,2002,2001,TRUE
+2254,134,Outstanding Female Actor - Supporting Role,2003,2002,TRUE
+2255,145,Outstanding Female Actor - Supporting Role,2004,2003,TRUE
+2256,365,Outstanding Female Actor - Supporting Role,2005,2004,TRUE
+2257,152,Outstanding Female Actor - Supporting Role,2006,2005,TRUE
+2258,81,Outstanding Female Actor - Supporting Role,2007,2006,TRUE
+2259,400,Outstanding Female Actor - Supporting Role,2008,2007,TRUE
+2260,879,Outstanding Female Actor - Supporting Role,2009,2008,TRUE
+2261,433,Outstanding Female Actor - Supporting Role,2010,2009,TRUE
+2262,567,Outstanding Female Actor - Supporting Role,2011,2010,TRUE
+2263,519,Outstanding Female Actor - Supporting Role,2012,2011,TRUE
+2264,334,Outstanding Female Actor - Supporting Role,2013,2012,TRUE
+2265,52,Outstanding Female Actor - Supporting Role,2014,2013,TRUE
+2266,105,Outstanding Female Actor - Supporting Role,2015,2014,TRUE
+2267,656,Outstanding Female Actor - Supporting Role,2016,2015,TRUE
+2268,376,Outstanding Female Actor - Supporting Role,2017,2016,TRUE
+2269,781,Outstanding Female Actor - Supporting Role,2018,2017,TRUE
+2270,566,Outstanding Female Actor - Supporting Role,2019,2018,TRUE
+2271,408,Outstanding Female Actor - Supporting Role,2020,2019,TRUE
+2272,436,Outstanding Female Actor - Supporting Role,2021,2020,TRUE
+2273,144,Outstanding Female Actor - Supporting Role,2022,2021,TRUE
+2274,200,Outstanding Female Actor - Supporting Role,2023,2022,TRUE
+2275,415,Outstanding Female Actor - Supporting Role,2024,2023,TRUE
+2276,197,Outstanding Female Actor - Supporting Role,2025,2024,TRUE
+2277,740,Outstanding Female Actor - Supporting Role,2026,2025,TRUE
